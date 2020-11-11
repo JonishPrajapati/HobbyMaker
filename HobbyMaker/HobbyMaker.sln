@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HobbyMaker.Application.Web", "HobbyMaker.Application.Web\HobbyMaker.Application.Web.csproj", "{F5E338F4-DD56-42C9-B331-2E59D07BA3AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HobbyMaker.Application.WebApi", "HobbyMaker.Application.WebApi\HobbyMaker.Application.WebApi.csproj", "{5E7212ED-02F6-49E1-B508-A2D5200988D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HobbyMaker.Application.DataAccess", "HobbyMaker.Application.DataAccess\HobbyMaker.Application.DataAccess.csproj", "{3A0C1241-CD73-4916-83DB-A2C75CA8F181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HobbyMaker.Application.Model", "HobbyMaker.Application.Model\HobbyMaker.Application.Model.csproj", "{46F60343-7D09-4A4E-9F39-07DF0499C02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HobbyMaker.Application.Service", "HobbyMaker.Application.Service\HobbyMaker.Application.Service.csproj", "{A462C620-3BD4-477A-BC0D-FCF9682C2560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E338F4-DD56-42C9-B331-2E59D07BA3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E338F4-DD56-42C9-B331-2E59D07BA3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E338F4-DD56-42C9-B331-2E59D07BA3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E338F4-DD56-42C9-B331-2E59D07BA3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7212ED-02F6-49E1-B508-A2D5200988D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7212ED-02F6-49E1-B508-A2D5200988D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7212ED-02F6-49E1-B508-A2D5200988D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7212ED-02F6-49E1-B508-A2D5200988D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0C1241-CD73-4916-83DB-A2C75CA8F181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0C1241-CD73-4916-83DB-A2C75CA8F181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0C1241-CD73-4916-83DB-A2C75CA8F181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0C1241-CD73-4916-83DB-A2C75CA8F181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F60343-7D09-4A4E-9F39-07DF0499C02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F60343-7D09-4A4E-9F39-07DF0499C02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F60343-7D09-4A4E-9F39-07DF0499C02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F60343-7D09-4A4E-9F39-07DF0499C02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A462C620-3BD4-477A-BC0D-FCF9682C2560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A462C620-3BD4-477A-BC0D-FCF9682C2560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A462C620-3BD4-477A-BC0D-FCF9682C2560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A462C620-3BD4-477A-BC0D-FCF9682C2560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {530613F5-B337-401F-9390-A485EEC66BC4}
+	EndGlobalSection
+EndGlobal
